@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'azf的独立博客'
+title: '安湛丰的独立博客'
 description: 'hello'
-keyword: 'azf, azf的独立博客, azf的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: '安湛丰, 安湛丰的独立博客, azf的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,10 +24,10 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/profile.png'
+author: '安湛丰'
+nickname: ' '
+bio: '刚学OI的萌新'
+avatar: 'https://s2.loli.net/2022/02/15/MHTyPw3rZKxJpVD.jpg'
 
 # Search
 search: true
