@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'azf的独立博客'
 description: 'hello'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
+keyword: 'azf, azf的独立博客, azf的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
